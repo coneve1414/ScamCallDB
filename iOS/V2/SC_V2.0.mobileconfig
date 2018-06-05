@@ -5,7 +5,7 @@
 	<key>ConsentText</key>
 	<dict>
 		<key>default</key>
-		<string>Fetches Spam Calls from database to prevent them on your device</string>
+		<string>Fetches Spam Calls from database to prevent them on your device. Please email updates.scdb@gmail.com to submit phone numbers that you suspect to be spam.</string>
 	</dict>
 	<key>PayloadContent</key>
 	<array>
