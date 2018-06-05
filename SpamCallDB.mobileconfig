@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>Fetches Spam Calls from database to prevent them on your device</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>CardDAVAccountDescription</key>
+			<string>ScamCallDB</string>
+			<key>CardDAVHostName</key>
+			<string>google.com</string>
+			<key>CardDAVPassword</key>
+			<string>Passwordconner123</string>
+			<key>CardDAVPort</key>
+			<integer>443</integer>
+			<key>CardDAVUseSSL</key>
+			<true/>
+			<key>CardDAVUsername</key>
+			<string>spamccalldb@gmail.com</string>
+			<key>PayloadDescription</key>
+			<string>Configures a CardDAV account</string>
+			<key>PayloadDisplayName</key>
+			<string>CardDAV</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.carddav.account.B9BFBB31-D6A0-4556-9464-0A23F973F428</string>
+			<key>PayloadType</key>
+			<string>com.apple.carddav.account</string>
+			<key>PayloadUUID</key>
+			<string>B9BFBB31-D6A0-4556-9464-0A23F973F428</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Fetches Spam Calls from database to prevent them on your device</string>
+	<key>PayloadDisplayName</key>
+	<string>Spam Call Database</string>
+	<key>PayloadIdentifier</key>
+	<string>Conners-iMac.0AE8BC28-D31B-4156-9AE3-2C4FC0F40123</string>
+	<key>PayloadOrganization</key>
+	<string>Conner Everett</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C6FF9FC0-504C-46F5-8376-D1C05B2CB9AC</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
