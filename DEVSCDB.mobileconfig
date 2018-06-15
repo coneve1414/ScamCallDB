@@ -34,6 +34,32 @@
 			<integer>1</integer>
 		</dict>
 		<dict>
+			<key>CardDAVAccountDescription</key>
+			<string>SCDB DEV</string>
+			<key>CardDAVHostName</key>
+			<string>google.com</string>
+			<key>CardDAVPassword</key>
+			<string>Pasta13579</string>
+			<key>CardDAVPort</key>
+			<integer>443</integer>
+			<key>CardDAVUseSSL</key>
+			<true/>
+			<key>CardDAVUsername</key>
+			<string>database.scdb@gmail.com</string>
+			<key>PayloadDescription</key>
+			<string>Configures a CardDAV account</string>
+			<key>PayloadDisplayName</key>
+			<string>CardDAV</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.carddav.account.B9BFBB31-D6A0-4556-9464-0A23F973F428</string>
+			<key>PayloadType</key>
+			<string>com.apple.carddav.account</string>
+			<key>PayloadUUID</key>
+			<string>B9BFBB31-D6A0-4556-9464-0A23F973F428</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
 			<key>PayloadDescription</key>
 			<string>Configures settings for calendar subscriptions</string>
 			<key>PayloadDisplayName</key>
