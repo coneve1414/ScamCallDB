@@ -37,7 +37,7 @@
 	<key>PayloadDescription</key>
 	<string>Fetches Spam Calls from database to prevent them on your device. Please email updates.scdb@gmail.com to submit phone numbers that you suspect to be spam.</string>
 	<key>PayloadDisplayName</key>
-	<string>Spam Call Database</string>
+	<string>SCDB DEV</string>
 	<key>PayloadIdentifier</key>
 	<string>Conners-iMac.0AE8BC28-D31B-4156-9AE3-2C4FC0F40123</string>
 	<key>PayloadOrganization</key>
