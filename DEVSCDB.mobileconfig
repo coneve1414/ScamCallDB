@@ -9,17 +9,17 @@
 	<array>
 		<dict>
 			<key>CardDAVAccountDescription</key>
-			<string>ScamCallDB</string>
+			<string>ScamCallDB_DEV</string>
 			<key>CardDAVHostName</key>
 			<string>google.com</string>
 			<key>CardDAVPassword</key>
-			<string>Passwordconner123</string>
+			<string>Pasta13579</string>
 			<key>CardDAVPort</key>
 			<integer>443</integer>
 			<key>CardDAVUseSSL</key>
 			<true/>
 			<key>CardDAVUsername</key>
-			<string>scamccalldb@gmail.com</string>
+			<string>database.scdb@gmail.com</string>
 			<key>PayloadDescription</key>
 			<string>Configures a CardDAV account</string>
 			<key>PayloadDisplayName</key>
@@ -32,26 +32,6 @@
 			<string>B9BFBB31-D6A0-4556-9464-0A23F973F428</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>PayloadDescription</key>
-			<string>Configures settings for calendar subscriptions</string>
-			<key>PayloadDisplayName</key>
-			<string>Subscribed Calendars</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.subscribedcalendar.account.33C17142-B804-46C1-9BFE-81B296AAB23D</string>
-			<key>PayloadType</key>
-			<string>com.apple.subscribedcalendar.account</string>
-			<key>PayloadUUID</key>
-			<string>33C17142-B804-46C1-9BFE-81B296AAB23D</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>SubCalAccountDescription</key>
-			<string>Spam Call Planned Maintiance / Updates Calendar</string>
-			<key>SubCalAccountHostName</key>
-			<string>https://calendar.google.com/calendar/ical/scamccalldb%40gmail.com/public/basic.ics</string>
-			<key>SubCalAccountUseSSL</key>
-			<true/>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
