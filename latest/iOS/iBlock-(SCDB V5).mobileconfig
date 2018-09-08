@@ -1,0 +1,47 @@
+			<key>PayloadDescription</key>
+			<string>Configures a CardDAV account</string>
+			<key>PayloadDisplayName</key>
+			<string>CardDAV</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.carddav.account.B9BFBB31-D6A0-4556-9464-0A23F973F428</string>
+			<key>PayloadType</key>
+			<string>com.apple.carddav.account</string>
+			<key>PayloadUUID</key>
+			<string>B9BFBB31-D6A0-4556-9464-0A23F973F428</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures settings for calendar subscriptions</string>
+			<key>PayloadDisplayName</key>
+			<string>Subscribed Calendars</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.subscribedcalendar.account.33C17142-B804-46C1-9BFE-81B296AAB23D</string>
+			<key>PayloadType</key>
+			<string>com.apple.subscribedcalendar.account</string>
+			<key>PayloadUUID</key>
+			<string>33C17142-B804-46C1-9BFE-81B296AAB23D</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SubCalAccountDescription</key>
+			<string>Spam Call Planned Maintiance / Updates Calendar</string>
+			<key>SubCalAccountHostName</key>
+			<string>https://calendar.google.com/calendar/ical/scamccalldb%40gmail.com/public/basic.ics</string>
+			<key>SubCalAccountUseSSL</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Fetches Spam Calls from database to prevent them on your device. Please email updates.scdb@gmail.com to submit phone numbers that you suspect to be spam.</string>
+	<key>PayloadDisplayName</key>
+	<string>iBlock</string>
+	<key>PayloadIdentifier</key>
+	<string>Conners-iMac.0AE8BC28-D31B-4156-9AE3-2C4FC0F40123</string>
+	<key>PayloadOrganization</key>
+	<string>Conner Everett</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
